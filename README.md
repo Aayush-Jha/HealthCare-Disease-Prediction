@@ -23,6 +23,7 @@ https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
 ![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/4.PNG)
 ![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/5.PNG)
 ![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/6.PNG)
+D:\FP\Disease-Prediction-using-Django-and-machine-learning-master\screenshots\1.png
 
 
 ### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
