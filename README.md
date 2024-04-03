@@ -13,16 +13,16 @@ make a new environment(recommended) and run...
 - Navigate to http://127.0.0.1:8000/ in your browser
 
 ### Dataset used - 
-https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
+https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
 
 ### Some Sceenshots of This Webapp -
 
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture1.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture2.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture3.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
-![](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
+![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/1.PNG)
+![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/2.PNG)
+![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/3.PNG)
+![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/4.PNG)
+![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/5.PNG)
+![](https://github.com/Aayush-Jha/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/6.PNG)
 
 
 ### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
-and if you like this project, do give it a "Star" Thank you..
